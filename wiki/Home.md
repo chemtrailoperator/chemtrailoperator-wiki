@@ -22,3 +22,8 @@ This wiki includes descriptions and synopses for all of the plugins written by C
 
 ### Asteroid Expansion Pack
 * [General](Asteroid-Expansion-General)
+
+### Other files in this Wiki
+* [How to Contribute](Production-and-Contribution)
+* [Error Reporting](Error-Reporting)
+* [Installing Plugins](Installation)
