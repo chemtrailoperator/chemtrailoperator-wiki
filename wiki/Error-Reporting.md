@@ -1,1 +1,1 @@
-
+# Plugin Error Reporting
