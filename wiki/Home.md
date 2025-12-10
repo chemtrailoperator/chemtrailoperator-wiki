@@ -3,7 +3,7 @@ This wiki includes descriptions and synopses for all of the plugins written by C
 
 ## Story and Content Expansion Plugins
 ### Endgame Alpha
-* [General](Endgame-Alpha-General)
+* [General](Endgame-Alpha-General.md)
 * [Main Synopsis](Endgame-Alpha-Synopsis-Main)
 * [Side Plot Synopses](Endgame-Alpha-Synopsis-Side)
 
