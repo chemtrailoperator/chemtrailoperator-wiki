@@ -1,1 +1,1 @@
-
+# Endgame Alpha Side Synopses
