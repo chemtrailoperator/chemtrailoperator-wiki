@@ -1,3 +1,6 @@
+## This Wiki is still under construction. Many of the files shown below may be empty or incomplete
+# Many of the plugins listed are also under construction. Their status will change differently.
+
 Welcome to ChemtrailOperator's Endless Sky Wiki!
 This wiki includes descriptions and synopses for all of the plugins written by ChemtrailOperator or Living_Adblocker.
 
