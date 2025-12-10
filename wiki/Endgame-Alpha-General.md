@@ -11,3 +11,5 @@ Recommendations: Be experienced with ship combat and have plenty of money availa
 Save your game before installing the plugin. There are some events in the game that have a large effect on system and planet accessibility, and story to revert those has not yet been finished.
 
 First mission: To test if the plugin is working, visit any Free Worlds spaceport and eventually you will receive a conversation popup about Raven in a TMBR hoodie.
+
+The full synopsis is available [here.](Endgame-Alpha-Synopsis-Main)
