@@ -1,7 +1,10 @@
 # Endgame Alpha Main Synopsis
 # THIS DOCUMENT IS INCOMPLETE AND DOES NOT REFLECT MAJOR CHANGES IN V0.5 ONWARDS
 
-Prologue Missions:
+Heading names refer to the file in which the missions are located, StoryMissions-<sequence>-<name>
+
+### Prologue
+
 1. Any Free Worlds planet
     Upon landing, you see who you think is Raven in the spaceport. Upon following her, she disappears.
 
@@ -14,7 +17,7 @@ Prologue Missions:
 4. Geminus
     Upon landing on Geminus, you receive a message from Raven saying she'll be in touch, with a payment.
 
-Buildup:
+### Espionage
 
 5. Any Human planet, 30 days after last Raven contact
     A group of terrorists bombs a remembrance day celebration on Earth.
@@ -44,8 +47,7 @@ Buildup:
 12. Farpoint
     As you plan with Admiral Danforth and Raven, an Alpha fleet occupies Greenrock, and you are dispatched to destroy the fleet as the Navy cannot receive authorization to enter the pirate system through the Free Worlds in time.
 
-13. Greenrock
-    After destroying the Alpha fleet, you are ordered to report to the reactivated naval base on New Iceland.
+
 
 14. New Iceland
     On New Iceland, you receive a commission as a commander in the Republic Navy and are ordered to report to Earth for official confirmation
@@ -53,7 +55,6 @@ Buildup:
 15. Earth
     On Earth, you are confirmed as a commander and receive access to patrol jobs, the ability to purchase Gunships, Dropships, and Frigates,and the right to wear the Navy Uniform, which can be bought at large Navy or population centers.
 
-Main Campaign:
 
 16. Any human planet, 97 days after commissioning into the Navy
     You are ordered to report to Geminus for special service.
