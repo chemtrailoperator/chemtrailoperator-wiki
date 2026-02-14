@@ -1,4 +1,5 @@
 ## This Wiki is still under construction. Many of the files shown below may be empty or incomplete
+This is the version from the main wiki repository
 ### Many of the plugins listed are also under construction. Their status will change differently.
 
 Welcome to ChemtrailOperator's Endless Sky Wiki!
